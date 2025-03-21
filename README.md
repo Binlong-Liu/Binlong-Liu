@@ -7,3 +7,6 @@ I specialize in modeling sorption/desorption kinetics within both batch systems 
 
 The derived models provide us the tool to better understand the sorption/desorption kinetics of mixtures, which can be easily applied in many fields, such as groundwater remediation, chemical engineering, analytical chemistry, etc. 
 
+
+# Project details
+
